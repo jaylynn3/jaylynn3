@@ -1,10 +1,10 @@
 ## About Me 👋
-<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/3b658b21-4332-41b3-9411-7178e0919360" />
+<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/eddee6d5-e1bd-42c4-a7d7-2b55364bc5f2" />
+
 
 
 📫 jaylynn140707@gmail.com
-https://www.linkedin.com/in/jaylynn-hemmings-840474305/
-⚡ Fun fact: I love to travel
+
 
 <!--
 **jaylynn3/jaylynn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
