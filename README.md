@@ -3,7 +3,6 @@
 
 
 
-📫 jaylynn140707@gmail.com
 
 
 <!--
