@@ -1,5 +1,5 @@
 ## About Me 👋
-<img width="1366" height="768" alt="Jaylynn Hemmings (1)" src="https://github.com/user-attachments/assets/79634f00-7ad4-4556-84e1-b1e7791fb996" />
+<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/3b658b21-4332-41b3-9411-7178e0919360" />
 
 
 📫 jaylynn140707@gmail.com
