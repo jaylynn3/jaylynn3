@@ -1,6 +1,6 @@
 About Me 👋
-monkeymagic.jpg
-
+[monkeymagic.jpg
+](https://raw.githubusercontent.com/jaylynn3/jaylynn3/refs/heads/main/monkeymagic.jpg)
 
 
 
