@@ -1,4 +1,4 @@
-About Me 👋
+
 ![Monkey Magic](https://raw.githubusercontent.com/jaylynn3/jaylynn3/main/monkeymagic.jpg)
 
 
