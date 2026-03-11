@@ -1,5 +1,7 @@
 About Me 👋
-<img width="1584" height="396" alt="Banner" src="(https://i.pinimg.com/736x/bf/b6/c2/bfb6c233c08ddcc551d3e90d56f00187.jpg)" />
+<img width="1584" height="396" alt="Banner" src="![bfb6c233c08ddcc551d3e90d56f00187](https://github.com/user-attachments/assets/184a9d6e-cc38-4f7d-b735-954c75ebf1f5)
+" />
+
 
 
 
