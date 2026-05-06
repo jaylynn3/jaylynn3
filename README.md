@@ -3,7 +3,7 @@
 ## Welcome to Jaylynn's Github
 
 
-<img width="130" height="100" alt="991916moittvklet" src="https://github.com/user-attachments/assets/5d6a319d-ec6c-4389-9e05-1c8e9f56dac9" />
+<img width="230" height="100" alt="991916moittvklet" src="https://github.com/user-attachments/assets/5d6a319d-ec6c-4389-9e05-1c8e9f56dac9" />
 
 <!--
 **jaylynn3/jaylynn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
